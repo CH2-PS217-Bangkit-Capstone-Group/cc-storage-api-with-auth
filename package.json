@@ -4,11 +4,12 @@
   "description": "",
   "main": "server.js",
   "scripts": {
+    "start": "node src/server.js",
     "dev": "nodemon src/server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MAHafizh/CH2-PS217-cc.git"
+    "url": "git+https://github.com/MAHafizh/CH2-PS217-cc-2.git"
   },
   "keywords": [
     "firebase",
