@@ -1,24 +1,18 @@
-Module Used
-List the technologies or libraries/frameworks used in your project.
+# Module Used
 
-Node.js
-Express.js
-Firebase (for cloud storage)
-Multer
-Moment.js
-...
-Getting Started
+- Node.js
+- Express.js
+- Firebase (for cloud storage)
+- Multer
+- Moment (for time zoning)
 
-Prerequisites
+# Prerequisites
 
-Node.js installed
-Install all modules
-Setup Firebase account and project and also credentials
+- Node.js installed
+- Install all modules
+- Setup Firebase account and project and also credentials
 
-Usage
-Provide information on how to use your project, including API endpoints and example requests.
-
-Endpoints
+# Endpoints
 /profileimage/:uid (POST) - Upload profile image
 /profileimage/:uid (GET) - Retrieve profile image
 /images/:uid/:category (POST) - Upload image with a category
